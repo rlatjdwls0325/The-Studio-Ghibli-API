@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/sungjinkim/Library/CloudStorage/OneDrive-개인/문서/2022 Fall Semester/IST 411/gson-2.8.5.jar"
+    ]
+}
